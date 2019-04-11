@@ -1,1 +1,2 @@
 Learning remote repo pull
+fetch
